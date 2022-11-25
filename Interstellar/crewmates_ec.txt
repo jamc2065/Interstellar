@@ -1,0 +1,6 @@
+Mark;Mark Millionaire is willing to use his personal funds in order to be a part of this mission, earn $100 more dollars after each move.
+Sherry;Sherry is a master navigator and pilot, lose 10% less fuel on each turn.
+Mary;Mary is a world-renowned-scientist and will remove one wrong answer at the research sites.
+Bobby;Bobby has been in the space game for a while and is letting you borrow his old spacesuit with is a grade 3.
+Nellie;Nellie is great at fixing things and you will gain 5% spacesuit health each time you lose its health for any reason.
+Walter;Walter has an supernatural skill of bringing you back from the dead, but only once with the same inventory and healths as before you died.

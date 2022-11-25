@@ -1,0 +1,10 @@
+n,That's Cap. You just dont like Humans.
+n,S*^t I really liked this place.
+n,Might as well give up and go to home.
+n,Thats not [P].
+n,L Planet.
+h,That's [P].
+h,You better not lie to me.
+h,W Planet.
+h,Time to move in! 
+h,You are lying, this plave is a dump...
